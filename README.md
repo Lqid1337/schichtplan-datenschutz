@@ -6,8 +6,8 @@ Stand: Mai 2026
 
 Verantwortlich für die Datenverarbeitung dieser App:
 
-[Willi Dikan]
-E-Mail: [xsick1337@gmail.xom
+Willi Dikan
+E-Mail: xsick1337@gmail.com
 
 2. Allgemeines
 
@@ -197,4 +197,4 @@ Diese Datenschutzerklärung kann angepasst werden, wenn neue Funktionen oder ges
 
 Bei Fragen zum Datenschutz:
 
-E-Mail: [xsick1337@gmail.com]
+E-Mail: xsick1337@gmail.com
